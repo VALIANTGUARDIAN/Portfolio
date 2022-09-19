@@ -28,7 +28,7 @@ const About = () => {
           <article className="about__card">
             <TbUsers className="about__icons"/>
             <h5>Clients</h5>
-            <small>3 clients world wide</small>
+            <small>3 clients</small>
           </article>
           <article className="about__card">
             <MdOutlineLibraryAddCheck className="about__icons"/>
