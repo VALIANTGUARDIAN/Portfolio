@@ -23,12 +23,12 @@ const About = () => {
           <article className="about__card">
             <FaAward className="about__icons"/>
             <h5>Experience</h5>
-            <small>1+ Years Working</small>
+            <small>3 months of Internship</small>
           </article>
           <article className="about__card">
             <TbUsers className="about__icons"/>
             <h5>Clients</h5>
-            <small>3 clients</small>
+            <small>2 clients</small>
           </article>
           <article className="about__card">
             <MdOutlineLibraryAddCheck className="about__icons"/>
