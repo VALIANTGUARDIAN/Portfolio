@@ -19,7 +19,8 @@ const data = [
     id:2,
     image: IMG2,
     title: 'Beta-Testing',
-    github:'https://github.com/VALIANTGUARDIAN/BetaTesting/tree/master/masterTemplate-Angular-master'
+    github:'https://github.com/VALIANTGUARDIAN/BetaTesting/tree/master/masterTemplate-Angular-master',
+    demo: ''
 
   }
 ]
