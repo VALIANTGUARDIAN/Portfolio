@@ -1,8 +1,8 @@
 import React from 'react'
 import './projects.css'
 import IMG1 from '../../assets/project1.jpg'
-/* import IMG2 from '../../assets/project2.jpg'
-import IMG3 from '../../assets/project3.jpg'
+import IMG2 from '../../assets/project2.jpg'
+/* import IMG3 from '../../assets/project3.jpg'
 import IMG4 from '../../assets/project4.jpg'
 import IMG5 from '../../assets/project5.png'
 import IMG6 from '../../assets/project6.jpg' */
@@ -14,6 +14,13 @@ const data = [
     title: 'Bookworms',
     github:'https://github.com/VALIANTGUARDIAN/BookWorms',
     demo:'https://bookworm-s.herokuapp.com/home'
+  },
+  {
+    id:2,
+    image: IMG2,
+    title: 'Beta-Testing',
+    github:'https://github.com/VALIANTGUARDIAN/BetaTesting/tree/master/masterTemplate-Angular-master'
+
   }
 ]
 
