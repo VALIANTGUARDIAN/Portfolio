@@ -33,15 +33,15 @@ const About = () => {
           <article className="about__card">
             <MdOutlineLibraryAddCheck className="about__icons"/>
             <h5>Projects</h5>
-            <small>9+ Completed Projects</small>
+            <small>4 Projects Completed</small>
           </article>
           
         </div>
 
         <p>
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Laborum eum vitae amet.
-             Totam nemo explicabo vel corporis neque autem atque hic quidem fugiat eveniet,
-             nostrum provident nam id accusantium ratione.
+        I'm a web developer with a focus on the MEAN stack, MERN stack, and SEO
+        but still exploring other technologies and frameworks that catch my interest! 
+        If you're looking for a developer to add to your team, I'd love to hear from you!
           </p>
           <a href="#contact" className="btn btn-primary">Let's Talk</a>
       </div>
