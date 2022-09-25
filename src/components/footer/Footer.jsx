@@ -24,6 +24,10 @@ const Footer = () => {
         <a href="https://instagram"><AiOutlineInstagram/></a>
         <a href="twitter"><RiTwitterLine/></a>
       </div>
+
+      <div className="footer__copyright">
+        <small>&copy; Digvijay Singh. All rights reserved</small>
+      </div>
     </footer>
   )
 }
