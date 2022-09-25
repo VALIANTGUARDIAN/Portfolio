@@ -27,7 +27,7 @@ const data = [
     image:IMG3,
     title:'Server Api Bookworms',
     github:'https://github.com/VALIANTGUARDIAN/serverApiBookworms',
-    demo:'https://bookwormsapi.herokuapp.com/'
+    demo:''
   }
 ]
 
@@ -48,7 +48,7 @@ const projects = () => {
             <h3>{title}</h3>
             <div className="project__item-cta">
               <a href={github} className='btn' target='_blank'>Github</a>
-              <a href={demo} className='btn btn-primary' target='_blank'>Live Demo</a>
+              <a href={demo} className='btn btn-primary' target='_blank'style={{ display: demo ? "block" : "none" }}>Live Demo</a>
             </div>          
         </article>
             )
